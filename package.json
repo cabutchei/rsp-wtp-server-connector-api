@@ -1,5 +1,5 @@
 {
-  "name": "vscode-server-connector-api",
+  "name": "rsp-wtp-server-connector-api",
   "version": "0.1.0",
   "description": "",
   "main": "lib/src/main.js",
@@ -50,12 +50,12 @@
     "adapters",
     "protocol"
   ],
-  "author": "Red Hat Developers",
+  "author": "cabutchei",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/redhat-developer/vscode-server-connector-api/issues"
+    "url": "https://github.com/cabutchei/rsp-wtp-server-connector-api/issues"
   },
-  "homepage": "https://github.com/redhat-developer/vscode-server-connector-api/issues",
+  "homepage": "https://github.com/cabutchei/rsp-wtp-server-connector-api",
   "engines": {
     "vscode": "^1.31.0"
   },
